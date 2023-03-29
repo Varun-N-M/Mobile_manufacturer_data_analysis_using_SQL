@@ -8,7 +8,7 @@ Tool used for analysis
 
 • SQL (SSMS)
 
-• This dataset for the analysis consits of five tables
+This dataset for the analysis consits of five tables
 
 Dim_Manufacturer: Manufacturer details
 Dim_Model: Model details
